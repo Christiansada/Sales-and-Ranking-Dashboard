@@ -20,13 +20,13 @@ The dashboard integrates data from the following sources:
    - File: [SalesData.xlsx](./SalesData.xlsx)
 
 2. **Budget.xlsx**: Provides the revenue and budget data by year, allowing comparison between actual and projected values.
-   - File: [Budget.xlsx](./mnt/data/Budget.xlsx)
+   - File: [Budget.xlsx](./Budget.xlsx)
 
 3. **Product.xlsx**: Offers product details, including Product ID, Group, Category, Supplier, and Unit Cost.
-   - File: [Product.xlsx](./mnt/data/Product.xlsx)
+   - File: [Product.xlsx](./Product.xlsx)
 
 4. **Photos.xlsx**: Contains data linking salesperson photos and other visual attributes.
-   - File: [Photos.xlsx](./mnt/data/Photos.xlsx)
+   - File: [Photos.xlsx](./Photos.xlsx)
 
 ## Dashboard Elements
 

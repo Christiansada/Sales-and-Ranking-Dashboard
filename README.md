@@ -17,7 +17,7 @@ Watch a demo video of the dashboard in action: [Sales and Ranking Dashboard Demo
 The dashboard integrates data from the following sources:
 
 1. **SalesData.xlsx**: Contains sales records, including Order Number, Product ID, Salesperson ID, Team, Quantity of Items Sold, and Unit Price.
-   - File: [SalesData.xlsx](./mnt/data/SalesData.xlsx)
+   - File: [SalesData.xlsx](./SalesData.xlsx)
 
 2. **Budget.xlsx**: Provides the revenue and budget data by year, allowing comparison between actual and projected values.
    - File: [Budget.xlsx](./mnt/data/Budget.xlsx)
@@ -32,20 +32,20 @@ The dashboard integrates data from the following sources:
 
 ### Sales Dashboard (Light Mode)
 This dashboard displays a summary of total **Revenue**, **Orders**, and **ATP** (Average Transaction Price). It allows filtering data by manager, supervisor, and salesperson. You can analyze product group performance and sales trends over the years.
-![Sales Dashboard Light Mode](./mnt/data/Light_Mode.png)
+![Sales Dashboard Light Mode](./Light_Mode.png)
 
 ### Filters Section
 A filter pane that allows users to toggle between different years (2019, 2020, 2021) and explore data by manager, supervisor, and salesperson.
-![Filtered Dashboard](./mnt/data/Filtered_1.jpg)
+![Filtered Dashboard](./Filtered_1.jpg)
 
 ### Sales Rankings
 Displays the top salespeople in terms of revenue and orders. Carla Ferreira holds the top position with **$4,707,403** in revenue and **9570 orders**.
-![Ranking](./mnt/data/Ranking.jpg)
+![Ranking](./Ranking.jpg)
 
 ### Detailed Tooltip Insights
 Interactive tooltips provide quick access to additional information about the selected metrics. For example, you can view detailed revenue and ATP for specific products like Wheat Flour.
-![Tooltip](./mnt/data/Tooltip.png)
-![Tooltip 2](./mnt/data/Tooltip_2.png)
+![Tooltip](./Tooltip.png)
+![Tooltip 2](./Tooltip_2.png)
 
 ## How to Use
 1. **Download the Power BI file**: Access the `.pbix` file from this repository.
@@ -57,7 +57,7 @@ Interactive tooltips provide quick access to additional information about the se
 - The current dashboard is based on **historical data** from 2019 to 2021. For real-time analysis, data sources need to be connected to live systems.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE] file for details.
 
 ## Contact
 For any inquiries or support, feel free to reach out to:

@@ -57,7 +57,7 @@ Interactive tooltips provide quick access to additional information about the se
 - The current dashboard is based on **historical data** from 2019 to 2021. For real-time analysis, data sources need to be connected to live systems.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE] file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 For any inquiries or support, feel free to reach out to:
